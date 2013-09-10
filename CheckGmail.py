@@ -5,6 +5,7 @@
 ## Purpose: Checks a users Gmail Account for messages. If the new message contains the phrase "#makecoffee"
 ## then it will write a byte to the serial port.  Receive this byte on your microcontroller board to 
 ## perform an action
+## Note: New Updates Coming
 ##*****************************************************************************************************
 
 import imaplib
